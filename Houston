@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<head><h1>Хьюстон</h1></head>
+<head>
+  <h1>Хьюстон</h1>
+</head>
 
 <p>
   Хьюстон (англ. Houston) — четвёртый по количеству жителей город в Соединённых
@@ -31,7 +33,6 @@
 
 <h1>Содержание</h1>
 <ol>
-   
   <li>
     <a href="#History">История</a>
     <ol>
@@ -122,7 +123,7 @@
   которой оставался до 1839 года. Первым мэром Хьюстона стал Джеймс Холман.
 </p>
 
-<h3 id="Century">XX век</h3>
+<h3 id="Сentury">XX век</h3>
 
 <img
   src="/Users/viktorushakov/Downloads/Хьюстон - картинки/Main_Street_looking_south_Houston_Texas_(1908).jpg"
