@@ -1,0 +1,25 @@
+.container {
+  padding: 8px;
+  border: 2px solid green;
+  width: 600px;
+}
+
+.left {
+  padding: 16px;
+  float: left;
+  width: 100px;
+  background: violet;
+}
+
+.static {
+  padding: 16px;
+  background: pink;
+}
+
+.clear {
+  clear: both;
+}
+
+.bottom {
+  background: cyan;
+}
